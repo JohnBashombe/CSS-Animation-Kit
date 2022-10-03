@@ -1,2 +1,7 @@
 # CSS-Animation-Kit
-This package contains a compilation of wonderful animation kits
+
+## A CSS - Animation Package
+
+### 100 % CSS, No Javascript involved
+
+This package contains a compilation of wonderful CSS animations
